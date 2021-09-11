@@ -83,3 +83,7 @@ while True:
 
     if checks():
         break
+        
+    if count == 9:
+        print(" Ничья.")
+        break
